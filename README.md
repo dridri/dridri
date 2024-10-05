@@ -1,6 +1,6 @@
 # Adrien Aubry (aka drich) <a href="https://www.linkedin.com/in/drich42/" target="_blank"><img style="height: 1em;" src="https://raw.githubusercontent.com/dridri/dridri/main/LI-In-Bug.png" /></a>
 
-Fullstack developer at [Payflows.io](https://payflows.io)
+Software and LLM engineer at [Payflows.io](https://payflows.io)
 
 ##
 
