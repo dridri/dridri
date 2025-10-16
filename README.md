@@ -1,6 +1,6 @@
 # Adrien Aubry (aka drich) <a href="https://www.linkedin.com/in/drich42/" target="_blank"><img style="height: 1em;" src="https://raw.githubusercontent.com/dridri/dridri/main/LI-In-Bug.png" /></a>
 
-Software and LLM engineer at [Payflows.io](https://payflows.io)
+Software and LLM engineer
 
 ##
 
@@ -69,3 +69,4 @@ Software and LLM engineer at [Payflows.io](https://payflows.io)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" height="42" />
 </p>
+
